@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/contend.jsp=UTF-8
+encoding//WebContent/header.jsp=UTF-8
+encoding//WebContent/jsphantrang.jsp=UTF-8
+encoding//src/fpt/bo/KhachHangBo.java=UTF-8
+encoding//src/fpt/controller/ThemKhachHangSeverlet.java=UTF-8
+encoding//src/fpt/dao/CoSo.java=UTF-8
+encoding//src/fpt/dao/KhachHangDao.java=UTF-8
